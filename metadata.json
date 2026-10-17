@@ -1,0 +1,6 @@
+{
+  "name": "RetroOS — 90s Web Desktop & Portfolio",
+  "description": "An authentic Windows 95 inspired nostalgic 90s Web Desktop environment featuring a draggable Window Manager, Notepad with localStorage persistence, Calculator, Theme & CRT Switcher, Web Audio synth effects, and interactive Developer Portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
